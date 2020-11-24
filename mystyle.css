@@ -1,6 +1,6 @@
 body {
   background-color: #D1BCE3;
-  color: #f5f1f9;
+  color: #f5f1f9
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
@@ -14,10 +14,4 @@ h1 {
   padding: 50px;
   border: 3px solid #000;
   background: #C49BBB;
-}
-
-#headwoohoo {
-  padding: 50px;
-  boarder:3px solid #darkblue
-  background:transparent
 }
