@@ -16,4 +16,7 @@ h1 {
   background: #C49BBB;
   width: 150px;
   transform: rotate(20deg);
+  #grad {
+  background-image: linear-gradient(red, yellow);
+}
 }
