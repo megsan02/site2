@@ -1,23 +1,23 @@
 body {
   background-color: #D1BCE3;
-  color: white;
-  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  color: #FFF;
+  text-shadow: 1px 1px 2px #000, 0 0 25px #9900ff, 0 0 5px #3d0066;
 }
 
 h1 {
   text-align: center;
-  color: white;
+  color: #FFF;
   margin-left: 20px;
-  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  text-shadow: 1px 1px 2px #000, 0 0 25px #0000FF, 0 0 5px #000066;
 }
 
 #cheeseburger {
   color: white;
-  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  text-shadow: 1px 1px 2px #00, 0 0 25px #0000ff, 0 0 5px #000066;
   padding: 50px;
   border: 3px solid #000;
-  margin: 10px 200px;
+  margin: 20px;
   border-radius: 25px;
-  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  background-image: linear-gradient(to right, #cc66ff,#ff66ff,#ffff99,#00ccff,#9933ff);
   width: 150px;
 }
