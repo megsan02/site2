@@ -1,13 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: #D1BCE3;
 }
 
 h1 {
-  color: navy;
+  color: #19297C;
   margin-left: 20px;
 }
 
 #cheeseburger {
   padding: 50px;
   border: 3px solid #000;
-  background: #FFF;
+  background: #C49BBB;
